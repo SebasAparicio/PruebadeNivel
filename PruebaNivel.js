@@ -11,15 +11,13 @@
     }
     return a + " "+ "es palindromo"
 }
-
-// Diferencias entre Flexbox y CSS grid:
+   
+    // Diferencias entre Flexbox y CSS grid:
         /*
-        Flexbox para componentes y CSS Grid para estructura
+        Flexbox para componentes y CSS Grid  para estructura
         Flexbox se creó para diseños de una dimensión, en una fila o una columna. En cambio CSS Grid Layout se pensó para el diseño bidimensional.
         Con CSS Grid podemos construir nuestra propia plantilla indicando el número de columnas y filas que queremos que la conformen, así como el espacio entre cada una de ellas
-        */   
-   
-   
+        */
    
    // 1. crea un div
     var div
@@ -67,10 +65,3 @@
     
 
     
-
-    // Diferencias entre Flexbox y CSS grid:
-        /*
-        Flexbox para componentes y CSS Grid  para estructura
-        Flexbox se creó para diseños de una dimensión, en una fila o una columna. En cambio CSS Grid Layout se pensó para el diseño bidimensional.
-        Con CSS Grid podemos construir nuestra propia plantilla indicando el número de columnas y filas que queremos que la conformen, así como el espacio entre cada una de ellas
-        */
